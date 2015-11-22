@@ -8,8 +8,7 @@
 
  3. Starfstímabil félagsins er almanaksárið.
 
- 4. Aðild að félaginu er opin aðildarfélögum Pírata innan Suðurkjördæmis.
-    Aðild að félaginu er skal einnig opin einstaklingum sem búa innan Suðurkjördæmis, en utan starfssvæða aðildarfélaga.
+ 4. Aðild að félaginu er opin aðildarfélögum Pírata innan Suðurkjördæmis. Aðild að félaginu er skal einnig opin skráðum Pírötum með lögheimili í Suðurkjördæmi, utan starfssvæða aðildarfélaga.
 
  5. Aðalfundur skal haldinn fyrir lok maímánaðar ár hvert.
     Aðalfund skal boða með minnst tveggja vikna fyrirvara.
@@ -18,7 +17,7 @@
 
  7. Stjórn félagsins skal skipuð fimm einstaklingum sem eiga þátttökurétt á aðalfundi. Skulu þeir kjörnir með STV-kjöri á aðalfundi.
     Stjórn félagsins skiptir sjálf með sér verkum, en hið minnsta skal skipa formann, ritara og gjaldkera stjórnar.
-    Stjórnarmenn tilnefna varamenn sína.
+    Einnig skal kjósa þrjá varamenn.
 
  8. Firmaritun félagsins er í höndum meirihluta stjórnar.
     Allar fjárhagsráðstafanir skulu gerðar á grundvelli skriflegrar heimildar frá meirihluta stjórnar.
